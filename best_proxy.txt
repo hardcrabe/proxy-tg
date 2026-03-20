@@ -1,1 +1,1 @@
-tg://proxy?server=proxy.ciaowner.lol&port=443&secret=ee1459dda62dc99782f8741f1ab0deb4f2706574726f766963682e7275
+tg://proxy?server=77.239.112.81&port=443&secret=de9c430f1164f4eb2b2742dcab429252
