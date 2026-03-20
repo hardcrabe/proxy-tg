@@ -1,1 +1,1 @@
-tg://proxy?server=77.239.112.81&port=443&secret=de9c430f1164f4eb2b2742dcab429252
+tg://proxy?server=r1.newr1.co.uk&port=85&secret=FgMBAgABAAH8AxOG4kw63Q
