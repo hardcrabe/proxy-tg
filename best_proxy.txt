@@ -1,1 +1,1 @@
-tg://proxy?server=tg-proxy.xyz&port=443&secret=ee3332394b46a676b9d61d9a52517babd1676f6f676c652e636f6d
+tg://proxy?server=go.bolshevps.su&port=443&secret=ee617782cbbfb6dcc27b0e338f570da65f6164732e78352e7275
