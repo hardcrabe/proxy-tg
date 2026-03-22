@@ -1,1 +1,1 @@
-tg://proxy?server=intake.intertextual.jolloped.outvote.unworthy.hapka.info&port=45891&secret=b579104c16669844b161625dbdcb68f8
+tg://proxy?server=195.254.165.251&port=25565&secret=dd79e344818749bd7ac519130220c25d09
