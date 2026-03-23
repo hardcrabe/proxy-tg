@@ -1,1 +1,1 @@
-tg://proxy?server=potok.lat&port=443&secret=ee3332394b46a676b9d61d9a52517babd1676f6f676c652e636f6d
+tg://proxy?server=love.funstat.info&port=853&secret=ee26ca1d1b79910d1d2b9a55fb2479f5e6646e732e676f6f676c65
