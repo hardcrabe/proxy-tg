@@ -1,1 +1,1 @@
-tg://proxy?server=Fast.love-internet.xyz&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
+tg://proxy?server=potok.lat&port=443&secret=ee3332394b46a676b9d61d9a52517babd1676f6f676c652e636f6d
