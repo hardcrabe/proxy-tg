@@ -1,1 +1,1 @@
-tg://proxy?server=mtp.vpnproxy.cc&port=4515&secret=eee4e1e84d0fda50eda6c8d0ca15c13a8d6d74702e76706e70726f78792e6363
+tg://proxy?server=79.137.204.12&port=8443&secret=eea9d0932950cf8ed1de45e1d6c422ae8331632e7275
