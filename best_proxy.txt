@@ -1,1 +1,1 @@
-tg://proxy?server=s1.sosproxy.space&port=443&secret=ee668f277db019fe88c30c8e498e72446764726976652e676f6f676c652e636f6d
+tg://proxy?server=91.107.182.200&port=8443&secret=dd104462821249bd7ac519130220c25d09
