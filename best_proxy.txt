@@ -1,1 +1,1 @@
-tg://proxy?server=mt.skadi.help&port=443&secret=dd382a00f48a0592ff49a30aa55017cc09
+tg://proxy?server=91.107.182.200&port=8443&secret=dd104462821249bd7ac519130220c25d09
