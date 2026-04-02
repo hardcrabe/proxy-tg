@@ -1,1 +1,1 @@
-tg://proxy?server=rkn.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
+tg://proxy?server=proxy.vpnusio.com&port=443&secret=db3502ea1525916350c563758d614434
