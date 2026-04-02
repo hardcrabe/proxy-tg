@@ -1,1 +1,1 @@
-tg://proxy?server=146.185.243.123&port=443&secret=ee2670bc3781fdc990e2abd3d324f9654a6d61782e7275
+tg://proxy?server=rkn.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
