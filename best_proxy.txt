@@ -1,1 +1,1 @@
-tg://proxy?server=92.118.234.215&port=443&secret=dddb9b51b5ce9a2820ff62d348cb23f1b9
+tg://proxy?server=204.168.176.214&port=443&secret=dd104462821249bd7ac519130220c25d09
