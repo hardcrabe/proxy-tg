@@ -1,1 +1,1 @@
-tg://proxy?server=connect.solutions.solutions&port=443&secret=dd2ae5891b2b9b9b811b212050843193aa
+tg://proxy?server=rkn.tg&port=8533&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
