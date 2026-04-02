@@ -1,1 +1,1 @@
-tg://proxy?server=proxy.vpnusio.com&port=443&secret=db3502ea1525916350c563758d614434
+tg://proxy?server=2A.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09
