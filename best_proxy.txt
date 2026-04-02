@@ -1,1 +1,1 @@
-tg://proxy?server=proxy.vpnusio.com&port=443&secret=db3502ea1525916350c563758d614434
+
