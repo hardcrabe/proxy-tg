@@ -1,1 +1,1 @@
-tg://proxy?server=212.111.85.187&port=443&secret=ee2ff4840804da4a569030eb6436aca41979616e6465782e7275
+tg://proxy?server=se.turboproxy.lol&port=8443&secret=ee1e29d8fbf34859d4d2e77048ffed77a6676f6f676c652e636f6d
