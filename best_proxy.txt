@@ -1,1 +1,1 @@
-tg://proxy?server=95.85.242.196&port=443&secret=ee73bbac8ac0dd370f98e5ffb3c4bfd9ac7777772e79612e7275
+tg://proxy?server=bound9.techlibrary.ink&port=4501&secret=eebe7b92224e463a0e2899b7420daa4ca3626973636f7474692e79656b74616e65742e636f6d
