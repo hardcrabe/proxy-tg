@@ -1,1 +1,1 @@
-tg://proxy?server=64.226.79.168&port=443&secret=eec80ff604fa45408f1d152624d3bffcf276616e2e6e616a76612e636f6d
+tg://proxy?server=pms1.openconn.ru&port=443&secret=ee2aa6fb44b6064899630563f554eaaad6746178692e79616e6465782e7275
