@@ -1,1 +1,1 @@
-tg://proxy?server=zombie.veil.watch&port=443&secret=eed59db8f3bfebd23b42c78747d8671b9a7765622e6d61782e7275
+tg://proxy?server=free.mtproxy.cfd&port=17721&secret=eef6d145fd97dfd0efec2c854967a5ade6766b2e636f6d
