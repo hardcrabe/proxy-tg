@@ -1,1 +1,1 @@
-tg://proxy?server=103.200.28.202&port=443&secret=eebf6166c1d5e6b8436a493e82d8299c737961686f6f2e636f6d
+tg://proxy?server=ip4.mtproxyserver.site&port=443&secret=ee2859e36fbc4d8ebcb3bcf78170b8d98c77622e7275
