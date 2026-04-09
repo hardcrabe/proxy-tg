@@ -1,1 +1,1 @@
-tg://proxy?server=my.beatvault.ru&port=443&secret=eef7500d69d0479eb1c90454490aa7096d64726976652e676f6f676c652e636f6d
+tg://proxy?server=5.188.224.184&port=8443&secret=eea7f63d85da20e747852c84bc3850558c6164732e78352e7275
