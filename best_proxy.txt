@@ -1,1 +1,1 @@
-tg://proxy?server=my.beatvault.ru&port=443&secret=eef7500d69d0479eb1c90454490aa7096d64726976652e676f6f676c652e636f6d
+tg://proxy?server=zombie.veil.watch&port=443&secret=eed59db8f3bfebd23b42c78747d8671b9a7765622e6d61782e7275
