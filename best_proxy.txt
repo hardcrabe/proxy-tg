@@ -1,1 +1,1 @@
-tg://proxy?server=prxy.vpnspacev.com&port=443&secret=ee6e35665dad80ee128615a8ee7957a60479616e6465782e7275
+tg://proxy?server=103.200.28.202&port=443&secret=eebf6166c1d5e6b8436a493e82d8299c737961686f6f2e636f6d
