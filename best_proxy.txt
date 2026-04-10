@@ -1,1 +1,1 @@
-tg://proxy?server=84.201.181.143&port=8443&secret=eea1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6676f6f676c652e636f6d
+tg://proxy?server=taxt.techlibrary.ink&port=4502&secret=eeca5f2c4267f072414888d77db5ee77ea626973636f7474692e79656b74616e65742e636f6d
