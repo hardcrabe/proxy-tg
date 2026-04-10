@@ -1,1 +1,1 @@
-tg://proxy?server=free.mtproxy.cfd&port=17721&secret=eef6d145fd97dfd0efec2c854967a5ade6766b2e636f6d
+tg://proxy?server=prxy.vpnspacev.com&port=443&secret=ee6e35665dad80ee128615a8ee7957a60479616e6465782e7275
