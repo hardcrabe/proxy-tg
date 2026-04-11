@@ -1,1 +1,1 @@
-tg://proxy?server=2.26.84.177&port=443&secret=ee7f33214bf1a391f48aeafa0c3f3cc24e676f6f676c652e636f6d
+tg://proxy?server=cdnt-1.api-suppro.eu.cc&port=443&secret=ee684d76827ec8317657e6f0eaa66ee67577622e7275
