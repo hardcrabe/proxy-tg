@@ -1,1 +1,1 @@
-tg://proxy?server=gamma-roxy.ip-ddns.com&port=443&secret=ee94fc2b484af6e1e1c87e6576b33c2575766b2e636f6d
+tg://proxy?server=164.68.111.163&port=443&secret=ee9fc1d5793a3a7470f6b5aba24abd476a636c6f7564666c6172652e636f6d
