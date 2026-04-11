@@ -1,1 +1,1 @@
-tg://proxy?server=lifeindatrash.klukva.mom&port=443&secret=ee34469c63a94790a187e524a78e254c3467697476657273652e7275
+tg://proxy?server=cdnt-1.api-suppro.eu.cc&port=443&secret=ee684d76827ec8317657e6f0eaa66ee67577622e7275
