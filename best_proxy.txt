@@ -1,1 +1,1 @@
-tg://proxy?server=mtp.kyonix.giize.com&port=443&secret=eea24ae024cabbe6a256a6537db04174b76d74702e6b796f6e69782e6769697a652e636f6d
+tg://proxy?server=185.68.246.15&port=443&secret=ee75c4397cff7299ada6b05ae598cf91d57777772e636c6f7564666c6172652e636f6d
