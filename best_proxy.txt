@@ -1,1 +1,1 @@
-tg://proxy?server=suge.2pac.live&port=7777&secret=ee97c88e23d6902be6f5d2a85c2013539b7777772e7068696c6970732e636f6d
+tg://proxy?server=103.214.69.132&port=17721&secret=eef6d145fd97dfd0efec2c854967a5ade6766b2e636f6d
