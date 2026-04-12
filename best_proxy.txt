@@ -1,1 +1,1 @@
-tg://proxy?server=panel.meowmeowcat.top&port=443&secret=ee1fa90a9cd9bd2e85299f3960238d39757777772e77696b6970656469612e6f7267
+tg://proxy?server=mtp.kyonix.giize.com&port=443&secret=eea24ae024cabbe6a256a6537db04174b76d74702e6b796f6e69782e6769697a652e636f6d
