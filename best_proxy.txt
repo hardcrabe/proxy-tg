@@ -1,1 +1,1 @@
-tg://proxy?server=nid24.mtproxygram.pro&port=443&secret=ee5d32cb9e437af2cd30246de55f5a205162726f777365722e79616e6465782e636f6d
+tg://proxy?server=suge.2pac.live&port=7777&secret=ee97c88e23d6902be6f5d2a85c2013539b7777772e7068696c6970732e636f6d
