@@ -1,1 +1,1 @@
-tg://proxy?server=103.214.69.132&port=17721&secret=eef6d145fd97dfd0efec2c854967a5ade6766b2e636f6d
+tg://proxy?server=panel.meowmeowcat.top&port=443&secret=ee1fa90a9cd9bd2e85299f3960238d39757777772e77696b6970656469612e6f7267
